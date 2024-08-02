@@ -1,4 +1,4 @@
-//first solution 
+//first solution : No accident please
 #include<bits/stdc++.h>
 #include <SFML/Graphics.hpp>//simple and fast multimedia library used to print Graphics or Visualizations to print the desired output   
 #include <vector>
