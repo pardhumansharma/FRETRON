@@ -1,3 +1,4 @@
+//second solution: My Money My Shares
 #include <iostream>
 #include <vector>
 #include <algorithm>
